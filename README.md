@@ -19,4 +19,4 @@
    Tampilan Awal Script
   ```
 
-  ![NvChad]()
+  ![NvChad](https://github.com/Xenzi-XN1/DB-Bom/blob/main/20220331_161313.jpg)
